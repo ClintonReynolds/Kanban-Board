@@ -10,8 +10,11 @@ const login = async (userInfo: UserLogin) => {
       },
       body: JSON.stringify(userInfo),
     });
+    console.log("Response from user login: ", response);
     if (response.ok) {
+      console.log("Response from user login: ", response);
       const data = await response.json();
+      console.log("Data from user login: ", data);
       return data;
     }
     throw new Error('Login failed');

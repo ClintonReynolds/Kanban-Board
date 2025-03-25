@@ -20,7 +20,7 @@ export const login = async (req: Request, res: Response) => {
     res.sendStatus(401);
     return;
   }
-  const token = jwt.sign({ username: user.username }, process.env.ACCESS_TOKEN_SECRET as string);
+  const token = jwt.sign({ username: user.username }, process.env.JWT_SECRET_KEY as string);
   res.json({ token });
 };
 
