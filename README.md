@@ -7,6 +7,8 @@ This is an interactive Kanban board deployed on Render.
 ![image](https://github.com/user-attachments/assets/52c7e1b2-0d4f-4fbf-8af7-24c3b69095c0)
 ![image](https://github.com/user-attachments/assets/c6e89085-9d21-4a2f-87b5-8a40d2bf99f8)
 
+LOGIN:JollyGuru
+Password:password
 
 ## Table of Contents
 - [Installation](#installation)
