@@ -1,9 +1,11 @@
-# Kanban-Board#
+# Kanban-Board
 
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Description
 This is an interactive Kanban board deployed on Render. 
+![image](https://github.com/user-attachments/assets/52c7e1b2-0d4f-4fbf-8af7-24c3b69095c0)
+![image](https://github.com/user-attachments/assets/c6e89085-9d21-4a2f-87b5-8a40d2bf99f8)
 
 
 ## Table of Contents
@@ -33,3 +35,5 @@ Download the necessary packages and ensure that the Kanban board runs in browser
 If you have any questions, please contact me at [Eastwood18809@gmail.com](mailto:Eastwood18809@gmail.com) or GitHub (https://github.com/ClintonReynolds.git).
 
 link to repo : https://github.com/ClintonReynolds/Kanban-Board.git
+
+link to rendered :![image](https://github.com/user-attachments/assets/ddbaa704-39f2-43f8-8a43-ff0a65c875b0)
