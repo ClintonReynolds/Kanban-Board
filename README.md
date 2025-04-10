@@ -4,8 +4,10 @@
 
 ## Description
 This is an interactive Kanban board deployed on Render. 
-![image](https://github.com/user-attachments/assets/52c7e1b2-0d4f-4fbf-8af7-24c3b69095c0)
-![image](https://github.com/user-attachments/assets/c6e89085-9d21-4a2f-87b5-8a40d2bf99f8)
+![image](https://github.com/user-attachments/assets/ca7bf2b7-aca6-4c0e-9779-5e05c6a098f2)
+![image](https://github.com/user-attachments/assets/8bb70df4-4813-4ebd-ade7-94d86addc5e2)
+
+
 
 LOGIN:JollyGuru
 Password:password
